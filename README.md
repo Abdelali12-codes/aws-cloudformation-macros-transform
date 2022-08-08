@@ -20,4 +20,7 @@ aws cloudformation deploy \
     --capabilities CAPABILITY_IAM
 ```
 
+## References
 
+1. https://aws.amazon.com/blogs/mt/deep-dive-on-aws-cloudformation-macros-to-transform-your-templates/
+2. https://aws.amazon.com/blogs/mt/use-aws-cloudformation-macros-to-create-multiple-resources-from-a-single-resource-definition/
