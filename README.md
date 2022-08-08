@@ -1,5 +1,4 @@
-# cloudformation transform
-
+# aws-cloudformation-macros-transform
 
 ## create the transform
 
@@ -21,4 +20,4 @@ aws cloudformation deploy \
     --capabilities CAPABILITY_IAM
 ```
 
-# aws-cloudformation-macros-transform
+
